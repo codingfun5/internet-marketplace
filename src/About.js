@@ -11,7 +11,7 @@ function About() {
             
            
           
-            <p><b>BALI</b> is Thailand's first fashion brand with a 30-year history. The brand is inspired by the strong and talented women who created Indonesia's first fashion clothing brand.
+            <p><b>BALI</b> is Indonesia's first fashion brand with a 30-year history. The brand is inspired by the strong and talented women who created Indonesia's first fashion clothing brand.
 
 Today, <b>BALI</b> is a stylish capsule closet for every day at affordable prices for millions of women and men.
 
