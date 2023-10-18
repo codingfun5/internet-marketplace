@@ -10,7 +10,7 @@ export const data = [
 
     price: 300.99,
 
-    image: "https://images.unsplash.com/photo-1566174053879-31528523f8ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZHJlc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    image: "https://images.unsplash.com/photo-1622122201714-77da0ca8e5d2?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
   },
 
@@ -198,7 +198,7 @@ export const data = [
 
     price: 284,
 
-    image: "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2tpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    image: "https://images.unsplash.com/photo-1568467020752-b08fbd48e878?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMyfHxza2lydHxlbnwwfHwwfHx8MA%3D%3D"
 
   },
 
