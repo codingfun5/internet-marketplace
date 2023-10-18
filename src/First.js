@@ -10,7 +10,7 @@ function First() {
 
         <div className="container">
             <div className="box">
-          <div className="sale">
+          <div className="sale"> 
             <h3> sale</h3>
             <h3> -20%</h3>
             <h3> dress</h3>

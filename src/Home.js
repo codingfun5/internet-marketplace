@@ -16,13 +16,16 @@ function Home() {
       <div className='cont'>
       
       <h2 className='back'>Free Standard Shipping</h2>
+      
       </div>
-     
-      <div>
       <Buttons filteredClothes = {chosenClothes}/>
+      <div className="product-card">
+      
+      
       <Clothes itemsForSale = {clothes}/>
       </div>
     </div>
+    
   )
 }
 export default Home;
